@@ -6,6 +6,9 @@ https://codeshare.io/workshopantigravity
 
 https://trygcp.dev/claim/deveco-gdg-9b0163d9845
 
+https://www.instagram.com/reel/DWoCjIzCZtN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+https://youtube.com/shorts/2HBvwOUZ4mI?si=XPHGb1RqhM1SGZa5
 ---
 
 ## File: `.agents/agents.md`
