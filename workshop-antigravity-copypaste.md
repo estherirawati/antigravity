@@ -146,7 +146,7 @@ Your goal as DevOps is to package the application into a container and deploy it
 
 ---
 
-## File: `.agents/commands/startcycle.md`
+## File: `.agents/workflows/startcycle.md`
 
 ```markdown
 ---
